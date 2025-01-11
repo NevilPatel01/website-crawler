@@ -23,4 +23,4 @@ const crawler = new PlaywrightCrawler({
 });
 
 // Add first URL to the queue and start the crawl.
-await crawler.run(['https://w3schools.com']);
+await crawler.run(['https://nevilpatel.com']);
