@@ -1,9 +1,0 @@
-{
-	"id": "fYqNd9rXcYoF218",
-	"json": "{\"id\":\"fYqNd9rXcYoF218\",\"url\":\"https://w3schools.com\",\"loadedUrl\":\"https://www.w3schools.com/\",\"uniqueKey\":\"https://w3schools.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-11-04T22:05:28.996Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://w3schools.com",
-	"url": "https://w3schools.com"
-}
